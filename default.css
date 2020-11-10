@@ -32,13 +32,13 @@ body *{
 
 h1, h2, h3, h4, h5, h6, strong{
 	color: var(--mainText);
-	font-family: 'Russo One', sans-serif;
+	font-family: 'Caveat', sans-serif;
 	font-weight: 500;
 }
 
 p, li, span, label, input, textarea{
 	color: var(--secondaryText);
-	font-family: 'Caveat', monospace;
+	font-family: 'Russo one', monospace;
 }
 
 a{
